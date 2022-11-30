@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class MinMaxArray {
     public static void main(String args[]){
         int [] arr = {6,8,10,2,80,50};
